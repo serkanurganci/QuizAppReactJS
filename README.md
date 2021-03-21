@@ -1,6 +1,6 @@
 # React Quiz App
 
-## **[Project Demo Link](https://opentdb.com/api_config.php)**
+## **[Project Demo Link](https://reactquizzappproject.web.app/)**
 
 ## **[Used API Link](https://opentdb.com/api_config.php)**
 
